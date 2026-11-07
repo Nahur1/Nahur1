@@ -138,16 +138,16 @@ Video & audio converter with a simple video editor — ships as a desktop app **
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nahur1&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahur1&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahur1&theme=tokyonight" width="100%" alt="profile details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nahur1&theme=tokyonight" height="170" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nahur1&theme=tokyonight" height="170" alt="top languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nahur1&theme=tokyonight&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahur1&bg_color=0d1117&color=4FC3F7&line=2c5364&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
 </p>
 
 ---
