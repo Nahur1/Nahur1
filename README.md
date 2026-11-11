@@ -50,26 +50,66 @@ My recent work spans **offline subtitle translation**, **Persian-first productiv
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | What it does | Stack |
-|:--|:--|:--|
-| 🌱 **[Rooyesh · رویش](https://github.com/Nahur1/rooyesh)** | Persian-first planner for tasks, goals, focus sessions, and weekly reviews, with a Solar Hijri calendar. Available as an offline web app, Windows and Android apps, a Telegram bot, and an Excel workbook. | JavaScript · Node.js · Excel |
-| 🎵 **[Unison Player](https://github.com/Nahur1/unison)** | Music and video player that translates English subtitles into Persian offline as you watch. [Downloads](https://github.com/Nahur1/unison/releases/latest) include Windows, macOS, Linux, Android, and a PWA bundle. | Rust · Slint · libmpv |
-| 📜 **[Kaghaz Player · کاغذ پلیر](https://github.com/Nahur1/kaghaz-player)** | Native music and video player with live bilingual subtitles and offline English-to-Persian translation. | Rust · Slint · libmpv |
-| 🎬 **[MediaYar · مدیا یار](https://github.com/Nahur1/MediaYar)** | Persian video and audio converter with basic video editing and screen recording. Available for Windows and the web, with an Android build target. | Electron · FFmpeg · WebAssembly |
-| 🤖 **[AiHorizon Telegram Bot](https://github.com/Nahur1/AiHorizon_bot_Public)** | Telegram bot for browsing the AiHorizon product catalog and contacting support, with tools for managing the catalog. | Python · aiogram · SQLite |
+<table>
+<thead>
+<tr><th>Project</th><th>What it does</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <a href="https://github.com/Nahur1/rooyesh"><img src="./assets/rooyesh.png" width="52" height="52" alt="" /><br /><strong>Rooyesh · رویش</strong></a>
+  </td>
+  <td valign="middle">
+    Persian-first planner for tasks, goals, focus sessions, and weekly reviews, with a Solar Hijri calendar. Available as an offline web app, Windows and Android apps, a Telegram bot, and an Excel workbook.<br /><sub>JavaScript · Node.js · Excel</sub>
+  </td>
+</tr>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <a href="https://github.com/Nahur1/unison"><img src="./assets/unison.png" width="52" height="52" alt="" /><br /><strong>Unison Player</strong></a>
+  </td>
+  <td valign="middle">
+    Music and video player that translates English subtitles into Persian offline as you watch. <a href="https://github.com/Nahur1/unison/releases/latest">Downloads</a> include Windows, macOS, Linux, Android, and a PWA bundle.<br /><sub>Rust · Slint · libmpv</sub>
+  </td>
+</tr>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <a href="https://github.com/Nahur1/kaghaz-player"><img src="./assets/kaghaz.png" width="52" height="52" alt="" /><br /><strong>Kaghaz Player · کاغذ پلیر</strong></a>
+  </td>
+  <td valign="middle">
+    Native music and video player with live bilingual subtitles and offline English-to-Persian translation.<br /><sub>Rust · Slint · libmpv</sub>
+  </td>
+</tr>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <a href="https://github.com/Nahur1/MediaYar"><img src="./assets/mediayar.png" width="52" height="52" alt="" /><br /><strong>MediaYar · مدیا یار</strong></a>
+  </td>
+  <td valign="middle">
+    Persian video and audio converter with basic video editing and screen recording. Available for Windows and the web, with an Android build target.<br /><sub>Electron · FFmpeg · WebAssembly</sub>
+  </td>
+</tr>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <a href="https://github.com/Nahur1/AiHorizon_bot_Public"><img src="./assets/aihorizon.png" width="52" height="52" alt="" /><br /><strong>AiHorizon Telegram Bot</strong></a>
+  </td>
+  <td valign="middle">
+    Telegram bot for browsing the AiHorizon product catalog and contacting support, with tools for managing the catalog.<br /><sub>Python · aiogram · SQLite</sub>
+  </td>
+</tr>
+</tbody>
+</table>
 
 <details>
-<summary><b>🔒 More projects</b></summary>
+<summary><b>More projects</b></summary>
 
 | Project | What it does |
 |:--|:--|
-| 🦊 **DanaFox · دانافاکس** | Bilingual English-learning app with spaced-repetition vocabulary review (FSRS), exam-style reading practice, and an AI coach. Available on web, desktop, Android, and Telegram, with offline practice and account sync. |
-| 🤖 **Nahur AI** | AI assistant backend built on Cloudflare Workers with a Telegram MTProto bridge. |
-| 📝 **IELTS Checker** | AI-assisted IELTS writing evaluation. |
-| 🪟 **Glass Player** | Video and music player with a glass-style interface and offline AI translation. |
-| 🛍️ **Persian Single-Seller** | Bilingual RTL/LTR storefront with a Django backend. |
+| <img src="./assets/danafox.png" width="28" height="28" alt="" /><br />**DanaFox · دانافاکس** | Bilingual English-learning app with spaced-repetition vocabulary review (FSRS), exam-style reading practice, and an AI coach. Available on web, desktop, Android, and Telegram, with offline practice and account sync. |
+| **Nahur AI** | AI assistant backend built on Cloudflare Workers with a Telegram MTProto bridge. |
+| **IELTS Checker** | AI-assisted IELTS writing evaluation. |
+| **Glass Player** | Video and music player with a glass-style interface and offline AI translation. |
+| **Persian Single-Seller** | Bilingual RTL/LTR storefront with a Django backend. |
 
 </details>
 
@@ -111,27 +151,6 @@ My recent work spans **offline subtitle translation**, **Persian-first productiv
 
 ---
 
-<details>
-<summary><b>🇮🇷 درباره من به فارسی</b></summary>
-<br/>
-
-<div dir="rtl" align="right">
-
-سلام! من **محمد فخاری** هستم، **کارشناس ارشد هوش مصنوعی** و متولد **اصفهان** 🕌
-
-عاشق اینم که هوش مصنوعی رو از مقاله و آزمایشگاه بیارم توی محصولاتی که مردم واقعاً ازشون استفاده می‌کنن — سریع، امن و تا جای ممکن **آفلاین**.
-
-- 🎬 **Unison** و **کاغذ پلیر** زیرنویس انگلیسی را هنگام پخش، آفلاین به فارسی ترجمه می‌کنند. **مدیا یار** برای تبدیل فایل‌های صوتی و تصویری، ویرایش سادهٔ ویدیو و ضبط صفحه است.
-- 🌱 **رویش** برای مدیریت کارها، هدف‌ها و جلسه‌های تمرکز است و از تقویم شمسی پشتیبانی می‌کند.
-- 🦊 **دانافاکس** برای مرور فاصله‌دار واژگان، تمرین ریدینگ و یادگیری انگلیسی با مربی هوش مصنوعی است.
-- 📢 کانال تلگرام: [@aihorizonn](https://t.me/aihorizonn)
-- 🛟 پشتیبانی: [@aihorizon1](https://t.me/aihorizon1)
-- 📫 ایمیل: [mohammadfakhari59@gmail.com](mailto:mohammadfakhari59@gmail.com)
-
-</div>
-
-</details>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer"/>
+  <img src="./assets/signal.gif" width="840" alt="Animated blue and teal waveform" />
 </p>
