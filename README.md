@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Nahur1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=620&lines=Offline-first+apps+for+Persian+speakers;Media%2C+productivity+and+language+learning" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=620&lines=Offline-first+apps+for+Persian+speakers;Media%2C+productivity+and+language+learning;Building+AI-powered+products+end-to-end;Desktop+%E2%80%A2+Web+%E2%80%A2+Mobile+%E2%80%A2+Bots" alt="typing"/>
   </a>
 </p>
 
