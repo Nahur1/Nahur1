@@ -75,14 +75,6 @@ My recent work spans **offline subtitle translation**, **Persian-first productiv
 </tr>
 <tr>
   <td width="170" align="center" valign="middle">
-    <a href="https://github.com/Nahur1/kaghaz-player"><img src="./assets/kaghaz.png" width="52" height="52" alt="" /><br /><strong>Kaghaz Player · کاغذ پلیر</strong></a>
-  </td>
-  <td valign="middle">
-    Native music and video player with live bilingual subtitles and offline English-to-Persian translation.<br /><sub>Rust · Slint · libmpv</sub>
-  </td>
-</tr>
-<tr>
-  <td width="170" align="center" valign="middle">
     <a href="https://github.com/Nahur1/MediaYar"><img src="./assets/mediayar.png" width="52" height="52" alt="" /><br /><strong>MediaYar · مدیا یار</strong></a>
   </td>
   <td valign="middle">
@@ -100,18 +92,51 @@ My recent work spans **offline subtitle translation**, **Persian-first productiv
 </tbody>
 </table>
 
-<details>
-<summary><b>More projects</b></summary>
+## Private Projects
 
-| Project | What it does |
-|:--|:--|
-| <img src="./assets/danafox.png" width="28" height="28" alt="" /><br />**DanaFox · دانافاکس** | Bilingual English-learning app with spaced-repetition vocabulary review (FSRS), exam-style reading practice, and an AI coach. Available on web, desktop, Android, and Telegram, with offline practice and account sync. |
-| **Nahur AI** | AI assistant backend built on Cloudflare Workers with a Telegram MTProto bridge. |
-| **IELTS Checker** | AI-assisted IELTS writing evaluation. |
-| **Glass Player** | Video and music player with a glass-style interface and offline AI translation. |
-| **Persian Single-Seller** | Bilingual RTL/LTR storefront with a Django backend. |
-
-</details>
+<table>
+<thead>
+<tr><th>Project</th><th>What it does</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <img src="./assets/nahur.png" width="52" height="52" alt="" /><br /><strong>Nahur AI · ناهور</strong>
+  </td>
+  <td valign="middle">Persian AI assistant for web and Telegram, with source-backed search, image generation, document analysis, and conversation memory.<br /><sub>Cloudflare Workers · JavaScript</sub></td>
+</tr>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <img src="./assets/danafox.png" width="52" height="52" alt="" /><br /><strong>DanaFox · دانافاکس</strong>
+  </td>
+  <td valign="middle">Bilingual English-learning app with spaced-repetition vocabulary review (FSRS), exam-style reading practice, and an AI coach. Available on web, desktop, Android, and Telegram, with offline practice and account sync.<br /><sub>JavaScript · Cloudflare Workers · D1</sub></td>
+</tr>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <img src="./assets/aihorizon-suite.png" width="52" height="52" alt="" /><br /><strong>AiHorizon</strong>
+  </td>
+  <td valign="middle">AiHorizon website, companion app, and bots for Telegram and Bale.</td>
+</tr>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <img src="./assets/ielts-checker.png" width="52" height="52" alt="" /><br /><strong>IELTS Checker</strong>
+  </td>
+  <td valign="middle">AI-assisted IELTS writing evaluation.<br /><sub>Python</sub></td>
+</tr>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <img src="./assets/glass-player.png" width="52" height="52" alt="" /><br /><strong>Glass Player</strong>
+  </td>
+  <td valign="middle">Video and music player with a glass-style interface and offline AI translation.<br /><sub>Flutter · Dart</sub></td>
+</tr>
+<tr>
+  <td width="170" align="center" valign="middle">
+    <img src="./assets/persian-single-seller.png" width="52" height="52" alt="" /><br /><strong>Persian Single-Seller</strong>
+  </td>
+  <td valign="middle">Bilingual storefront with right-to-left and left-to-right layouts, in-store point of sale, and basic accounting.<br /><sub>Django · PostgreSQL</sub></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
