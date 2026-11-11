@@ -101,7 +101,7 @@ My recent work spans **offline subtitle translation**, **Persian-first productiv
 <tbody>
 <tr>
   <td width="170" align="center" valign="middle">
-    <img src="./assets/nahur.png" width="52" height="52" alt="" /><br /><strong>Nahur AI · ناهور</strong>
+    <img src="./assets/nahur-logo.png" width="88" height="88" alt="" /><br /><strong>Nahur AI · ناهور</strong>
   </td>
   <td valign="middle">Persian AI assistant for web and Telegram, with source-backed search, image generation, document analysis, and conversation memory.<br /><sub>Cloudflare Workers · JavaScript</sub></td>
 </tr>
