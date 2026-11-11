@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Nahur1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+AI-powered+products+end-to-end;Offline+Persian+speech-to-subtitle+in+Rust;Desktop+%E2%80%A2+Web+%E2%80%A2+Mobile+%E2%80%A2+Bots;From+Isfahan+%F0%9F%87%AE%F0%9F%87%B7+to+the+world" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=620&lines=Offline-first+apps+for+Persian+speakers;Media%2C+productivity+and+language+learning" alt="typing"/>
   </a>
 </p>
 
@@ -27,12 +27,10 @@
 I'm **Mohammad**, an **AI developer** with a **Master's degree in Artificial Intelligence**, born and raised in **Isfahan, Iran** 🕌.
 
 I love turning research-grade AI into products people actually use — fast, private, and **offline-first** whenever possible.
-My recent work focuses on **on-device speech recognition & translation**, native **Rust** desktop apps, and AI-driven tools for **language learning**.
+My recent work spans **offline subtitle translation**, **Persian-first productivity tools**, and **English learning apps**.
 
-- 🧠 Focus: Applied AI · Speech · NLP · LLM apps
-- 🦀 Currently crafting: native media players in **Rust + Slint**
-- 🌍 Building for Persian speakers & beyond (RTL-first UX)
-- 📫 Reach me: [mohammadfakhari59@gmail.com](mailto:mohammadfakhari59@gmail.com)
+- I build native desktop apps with **Rust + Slint** and cross-platform tools for the **web, Android, and Telegram**.
+- I design for **Persian and right-to-left layouts** from the start.
 
 </td>
 <td width="40%" valign="top">
@@ -54,63 +52,24 @@ My recent work focuses on **on-device speech recognition & translation**, native
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 [Unison Player](https://github.com/Nahur1/unison)
-Music & video player with **live offline Persian subtitles**. Native Rust desktop app for Windows, macOS and Linux.
-
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![Slint](https://img.shields.io/badge/Slint-2379F4?style=flat-square&logo=slint&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 [Kaghaz Player](https://github.com/Nahur1/kaghaz-player)
-Music & video player with **real-time offline speech-to-subtitle** in Persian, powered by libmpv.
-
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![Slint](https://img.shields.io/badge/Slint-2379F4?style=flat-square&logo=slint&logoColor=white)
-![mpv](https://img.shields.io/badge/libmpv-691F69?style=flat-square&logo=mpv&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 [MediaYar · مدیا یار](https://github.com/Nahur1/MediaYar)
-Video & audio converter with a simple video editor — ships as a desktop app **and** a PWA.
-
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🪟 Glass Player <sub>🔒 private</sub>
-3D glass-style video & music player with **offline AI translation**.
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🔒 More work (private repositories)</b></summary>
-<br/>
-
 | Project | What it does | Stack |
 |:--|:--|:--|
-| 🤖 **Nahur AI** | AI assistant backend on Cloudflare Workers + a Telegram MTProto bridge | Cloudflare Workers · Railway · JS |
-| 🦊 **DanaFox** | English vocabulary, reading & grammar trainer | JavaScript |
-| 📝 **IELTS Checker** | AI-assisted IELTS writing evaluation | Python |
-| 📚 **Nava · نوا** | Study-planning PWA, Telegram bot & Excel data pipeline | JavaScript · PWA |
-| 🛍️ **Persian Single-Seller** | Bilingual RTL/LTR storefront with a Django backend | Python · Django |
+| 🌱 **[Rooyesh · رویش](https://github.com/Nahur1/rooyesh)** | Persian-first planner for tasks, goals, focus sessions, and weekly reviews, with a Solar Hijri calendar. Available as an offline web app, Windows and Android apps, a Telegram bot, and an Excel workbook. | JavaScript · Node.js · Excel |
+| 🎵 **[Unison Player](https://github.com/Nahur1/unison)** | Music and video player that translates English subtitles into Persian offline as you watch. [Downloads](https://github.com/Nahur1/unison/releases/latest) include Windows, macOS, Linux, Android, and a PWA bundle. | Rust · Slint · libmpv |
+| 📜 **[Kaghaz Player · کاغذ پلیر](https://github.com/Nahur1/kaghaz-player)** | Native music and video player with live bilingual subtitles and offline English-to-Persian translation. | Rust · Slint · libmpv |
+| 🎬 **[MediaYar · مدیا یار](https://github.com/Nahur1/MediaYar)** | Persian video and audio converter with basic video editing and screen recording. Available for Windows and the web, with an Android build target. | Electron · FFmpeg · WebAssembly |
+| 🤖 **[AiHorizon Telegram Bot](https://github.com/Nahur1/AiHorizon_bot_Public)** | Telegram bot for browsing the AiHorizon product catalog and contacting support, with tools for managing the catalog. | Python · aiogram · SQLite |
+
+<details>
+<summary><b>🔒 More projects</b></summary>
+
+| Project | What it does |
+|:--|:--|
+| 🦊 **DanaFox · دانافاکس** | Bilingual English-learning app with spaced-repetition vocabulary review (FSRS), exam-style reading practice, and an AI coach. Available on web, desktop, Android, and Telegram, with offline practice and account sync. |
+| 🤖 **Nahur AI** | AI assistant backend built on Cloudflare Workers with a Telegram MTProto bridge. |
+| 📝 **IELTS Checker** | AI-assisted IELTS writing evaluation. |
+| 🪟 **Glass Player** | Video and music player with a glass-style interface and offline AI translation. |
+| 🛍️ **Persian Single-Seller** | Bilingual RTL/LTR storefront with a Django backend. |
 
 </details>
 
@@ -162,9 +121,9 @@ Video & audio converter with a simple video editor — ships as a desktop app **
 
 عاشق اینم که هوش مصنوعی رو از مقاله و آزمایشگاه بیارم توی محصولاتی که مردم واقعاً ازشون استفاده می‌کنن — سریع، امن و تا جای ممکن **آفلاین**.
 
-- 🧠 حوزه‌ی کاری: هوش مصنوعی کاربردی، پردازش گفتار و زبان، اپلیکیشن‌های مبتنی بر LLM
-- 🦀 این روزها: ساخت پخش‌کننده‌های چندرسانه‌ای با **Rust** و زیرنویس فارسی زنده و آفلاین
-- 📚 ابزارهای هوشمند برای یادگیری زبان انگلیسی و آزمون آیلتس
+- 🎬 **Unison** و **کاغذ پلیر** زیرنویس انگلیسی را هنگام پخش، آفلاین به فارسی ترجمه می‌کنند. **مدیا یار** برای تبدیل فایل‌های صوتی و تصویری، ویرایش سادهٔ ویدیو و ضبط صفحه است.
+- 🌱 **رویش** برای مدیریت کارها، هدف‌ها و جلسه‌های تمرکز است و از تقویم شمسی پشتیبانی می‌کند.
+- 🦊 **دانافاکس** برای مرور فاصله‌دار واژگان، تمرین ریدینگ و یادگیری انگلیسی با مربی هوش مصنوعی است.
 - 📢 کانال تلگرام: [@aihorizonn](https://t.me/aihorizonn)
 - 🛟 پشتیبانی: [@aihorizon1](https://t.me/aihorizon1)
 - 📫 ایمیل: [mohammadfakhari59@gmail.com](mailto:mohammadfakhari59@gmail.com)
